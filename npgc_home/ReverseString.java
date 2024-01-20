@@ -14,7 +14,7 @@ public class ReverseString
          ch[i]=ch[n-1-i];
          ch[n-1-i]=t;
     }
-    s=String.copyValueOf(ch);// copies the content of a character array into the stringṬṭṬ
+    s=String.copyValueOf(ch);// copies the content of a character array into the string
     System.out.println("By FOR LOOP:");
     System.out.println("Reversed string is: "+s);
   }
