@@ -109,7 +109,7 @@ public class P3Butterfly
 
  public static void main(String [] args)
  {
-  patternIterative();
+  //patternIterative();
   patternRecursive();
  }
 }
