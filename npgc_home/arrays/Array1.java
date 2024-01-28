@@ -32,7 +32,7 @@ public class Array1
    }
 
    
-   if(a[i]>=0)
+   if(a[i]>0)//0 is neither positive nor negative number
    {
     sumPos+=a[i];//di)Sum of positive number
     countPos++;//ei)Count positive number
