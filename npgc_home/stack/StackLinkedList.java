@@ -1,4 +1,4 @@
-public class StackClass
+public class StackLinkedList
 {
  static class Node
  { 
